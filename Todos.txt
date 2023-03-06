@@ -1,0 +1,3 @@
+clean bag
+throw trash
+wash bike
