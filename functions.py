@@ -1,6 +1,7 @@
 FILE_PATH = 'Todos.txt'
 
 
+
 def get_todos(filepath=FILE_PATH):
     """ Read To-dos from text file """
     with open(filepath, 'r') as file_local:
